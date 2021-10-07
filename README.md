@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-The dataset was created by myself. Some inferences were obtained from the people who shopped among 9 different products representing the shopping cart of different people. The aim is to obtain and interpret the links between people's preferred products. Association rule extraction, which can provide a very efficient effect for markets, is built step by step in the **poc.py** file.
+Some inferences were obtained from the people who shopped among 9 different products representing the shopping cart of different people. The aim is to obtain and interpret the links between people's preferred products. Association rule extraction, which can provide a very efficient effect for markets, is built step by step in the **poc.py** file.
 
 ## Dataset
 
