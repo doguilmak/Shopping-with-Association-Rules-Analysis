@@ -22,7 +22,7 @@ Analysis is included in **rules_2.xlsx** file. Also you can check on **rules_2**
 Before running the code make sure that you have these libraries:
 
  - pandas 
- - apyori (in apyori.py file)
+ - apyori (apyori.py file)
  - mlxtend
     
 ## Contact Me
