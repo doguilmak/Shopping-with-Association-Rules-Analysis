@@ -1,36 +1,40 @@
+<h1 align=center><font size = 5>Offer Food with Association Rules Analysis</font></h1>
 
-# Shopping Evaluation with Association Rules Analysis
+<br>
 
-## Problem Statement
+<img src="https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" height=480 width=950 alt="market">
 
-Some inferences were obtained from the people who shopped among 9 different products representing the shopping cart of different people. The aim is to obtain and interpret the links between people's preferred products. Association rule extraction, which can provide a very efficient effect for markets, is built step by step in the **poc.py** file.
+<small>Picture Source: <a href="https://unsplash.com/photos/D6Tu_L3chLE">Unsplash</a></small>
 
-## Dataset
+<br>
+<h1>Objective</h1>
 
-Dataset is created by myself. It has ***9 columns*** and ***2000 rows with the header***. Each column represents different products. A value of 0 indicates that the product was not received by the customer, and a value of 1 indicates that the product was received by the customer.
+<p>In this project, a recommendation model was developed with <i>Association rule analysis</i> based on the products preferred by the customers (random). Some inferences were obtained from the people who shopped among 9 different products representing the shopping cart of different people. The aim is to obtain and interpret the links between people's preferred products. Association rule extraction, which can provide a very efficient effect for markets.</p>
 
-## Methodology
+<br>
 
-In this project, evaluations were made with the **apriori** algorithm. **apyori.py** was made by **Yu Mochizuki**. If you are looking for the meaning of support, confience, lift and etc. please take a look at [Wikipedia](https://en.wikipedia.org/wiki/Association_rule_learning).
+<h2>Keywords</h2> 
 
-## Analysis
+<ul>
+	<li>Market</li>
+	<li>Machine Learning</li>
+	<li>Association Rules Analysis</li>
+	<li>Apriori</li>
+	<li>Association Rule Mining</li>
+</ul> 
 
-Analysis is included in **rules_2.xlsx** file. Also you can check on **rules_2** dataframe in **poc.py**.
+<br>
 
-**Process took 0.26288461685180664 seconds.**
+<h2>Data Set Information:</h2>
 
-## How to Run Code
+<p>The dataset has no real-world equivalent. It is completely randomly generated. Therefore, it will be of great benefit to going through the real data set in order to make a real recommendation. If you have the appropriate data set, you can go over it (hope you show it to me). Dataset is created by myself. It has <i>9 columns</i> and <i>2000</i> rows with the header. Each column represents different products. A value of <i>0</i> indicates that the product was not received by the customer, and a value of <i>1</i> indicates that the product was received by the customer.</p>
 
-Before running the code make sure that you have these libraries:
+<br>
 
- - pandas 
- - apyori (in apyori.py file)
- - mlxtend
-    
-## Contact Me
+<h1>Contact Me</h1>
+<p>If you have something to say to me please contact me:</p>
 
-If you have something to say to me please contact me: 
-
- - Twitter: [Doguilmak](https://twitter.com/Doguilmak).  
- - Mail address: doguilmak@gmail.com
- 
+<ul>
+  <li>Twitter: <a href="https://twitter.com/Doguilmak">Doguilmak</a></li>
+  <li>Mail address: doguilmak@gmail.com</li>
+</ul>
