@@ -7,7 +7,8 @@
 <small>Picture Source: <a href="https://unsplash.com/photos/D6Tu_L3chLE">Unsplash</a></small>
 
 <br>
-<h1>Objective</h1>
+
+<h2>Objective</h2>
 
 <p>In this project, a recommendation model was developed with <i>Association rule analysis</i> based on the products preferred by the customers (random). Some inferences were obtained from the people who shopped among 9 different products representing the shopping cart of different people. The aim is to obtain and interpret the links between people's preferred products. Association rule extraction, which can provide a very efficient effect for markets.</p>
 
